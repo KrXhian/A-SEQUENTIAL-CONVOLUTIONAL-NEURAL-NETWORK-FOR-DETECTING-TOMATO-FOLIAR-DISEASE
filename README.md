@@ -11,7 +11,7 @@ Group members:
 
 De Villena, Francis Nathanael O.
 
-Francis is the enigmatic Lead Researcher and Developer of the group. He was originally from the Capital City: Manila. He earned his secondary education degree at the University of Mindanao under the Science, Technology, and Mathematics strand. He is currently finishing his undergraduate studies in Computer Science at the University of Southeastern Philippines.
+Francis is the enigmatic Lead Researcher and Developer of the group. He was originally from the Capital City: Manila. He earned his secondary education degree at the University of Mindanao under the Science, Technology, Engineering, and Mathematics strand. He is currently finishing his undergraduate studies in Computer Science at the University of Southeastern Philippines.
 
 Bordios, Kent Cyril D.
 
